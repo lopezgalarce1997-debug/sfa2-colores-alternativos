@@ -104,6 +104,14 @@ Uniforme azul real, boina blanca, chaleco, bastón y accesorios dorados.
   <img src="capturas/rolento.png" height="420" alt="Rolento en pelea">
 </p>
 
+## Sakura — Midnight Assassin
+Blusa azul marino morado, falda negra, cinta y pañuelo gris oscuro. Estela y sombra del Custom Combo morado oscuro.
+
+<p>
+  <img src="capturas/sakura_retrato.png" height="420" alt="Sakura retrato">
+  <img src="capturas/sakura.png" height="420" alt="Sakura en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
