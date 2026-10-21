@@ -1,9 +1,12 @@
 # SFA2 Colores Alternativos
 
-Vitrina de paletas de colores personalizadas para **Street Fighter Alpha 2** (Fightcade / FBNeo).
-Todos los colores se eligen seleccionando al personaje con **2 Patadas**.
+🇪🇸 Colores alternativos para **Street Fighter Alpha 2** (Fightcade / FBNeo). Se eligen seleccionando al personaje con **2 Patadas**.
+🇺🇸 Alternative colors for **Street Fighter Alpha 2** (Fightcade / FBNeo). Select the character with **2 Kicks** to use them.
+🇧🇷 Cores alternativas para **Street Fighter Alpha 2** (Fightcade / FBNeo). Escolha o personagem com **2 Chutes** para usá-las.
 
-> Este repositorio solo muestra capturas. No contiene ROMs ni archivos del juego.
+> 🇪🇸 Este repositorio solo muestra capturas, no contiene ROMs ni archivos del juego. · 🇺🇸 This repository only shows screenshots, no ROMs or game files. · 🇧🇷 Este repositório só mostra capturas, sem ROMs ou arquivos do jogo.
+
+👉 **[Precios / Prices / Preços](#-precios--prices--preços)**
 
 ## Ken — Negro y lila
 Gi negro con pliegues, pelo negro, cinturón morado oscuro. Hadoken y Shoryuken lila con centro brillante.
@@ -72,6 +75,30 @@ Armadura y polerón negros con detalles dorados.
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
-## Contacto
+## 💰 Precios / Prices / Preços
 
-¿Te interesan estos colores? Escríbeme abriendo un *issue* en este repositorio.
+| | 🇪🇸 Español | 🇺🇸 English | 🇧🇷 Português |
+|---|---|---|---|
+| **US$ 5** | Pack con todos los colores de esta vitrina | Pack with all the colors shown here | Pack com todas as cores desta vitrine |
+| **US$ 15** | Colores personalizados a tu elección | Custom colors of your choice | Cores personalizadas à sua escolha |
+
+### 🇪🇸 Español
+¿Te interesan estos colores? **Agrégame en Discord: `blady0103`**
+- **US$ 5:** el pack con todos los colores que ves aquí.
+- **US$ 15:** diseño tus propios colores para los personajes que elijas.
+
+Recibes un parche de colores para aplicar a tu propia ROM de Street Fighter Alpha 2 (no incluye el juego). Funciona en Fightcade / FBNeo.
+
+### 🇺🇸 English
+Interested in these colors? **Add me on Discord: `blady0103`**
+- **US$ 5:** the pack with all the colors shown here.
+- **US$ 15:** I design custom colors for the characters you choose.
+
+You get a color patch to apply to your own Street Fighter Alpha 2 ROM (the game is not included). Works on Fightcade / FBNeo.
+
+### 🇧🇷 Português
+Curtiu essas cores? **Me adiciona no Discord: `blady0103`**
+- **US$ 5:** o pack com todas as cores mostradas aqui.
+- **US$ 15:** eu crio cores personalizadas para os personagens que você escolher.
+
+Você recebe um patch de cores para aplicar na sua própria ROM de Street Fighter Alpha 2 (o jogo não está incluído). Funciona no Fightcade / FBNeo.
