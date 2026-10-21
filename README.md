@@ -72,6 +72,14 @@ Armadura y polerón negros con detalles dorados.
   <img src="capturas/sodom.png" height="420" alt="Sodom en pelea">
 </p>
 
+## Gen — Crema, bronce y dorado
+Túnica color marfil, pelo y mangas bronce, faja y zapatos dorados. En sus dos estilos de pelea (Mantis y Grulla).
+
+<p>
+  <img src="capturas/gen_retrato.png" height="420" alt="Gen retrato">
+  <img src="capturas/gen.png" height="420" alt="Gen en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
