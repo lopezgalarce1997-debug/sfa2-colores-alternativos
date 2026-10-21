@@ -128,6 +128,14 @@ Vestido y bufanda rojos, pelo y medias plateados, zapatos rojos.
   <img src="capturas/rose.png" height="420" alt="Rose en pelea">
 </p>
 
+## Birdie — Cuero negro
+Ropa de cuero negra, piel pálida, cresta y tachas rojas.
+
+<p>
+  <img src="capturas/birdie_retrato.png" height="420" alt="Birdie retrato">
+  <img src="capturas/birdie.png" height="420" alt="Birdie en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
