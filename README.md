@@ -96,6 +96,14 @@ Piel azul helada, gi blanco plateado, vendas y cinturón celestes. Estela y somb
   <img src="capturas/guy.png" height="420" alt="Guy en pelea">
 </p>
 
+## Rolento — Royal Guard
+Uniforme azul real, boina blanca, chaleco, bastón y accesorios dorados.
+
+<p>
+  <img src="capturas/rolento_retrato.png" height="420" alt="Rolento retrato">
+  <img src="capturas/rolento.png" height="420" alt="Rolento en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
