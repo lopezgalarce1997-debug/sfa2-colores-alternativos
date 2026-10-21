@@ -80,6 +80,14 @@ Túnica color marfil, pelo y mangas bronce, faja y zapatos dorados. En sus dos e
   <img src="capturas/gen.png" height="420" alt="Gen en pelea">
 </p>
 
+## Adon — Negro y dorado
+Ropa negra con ribetes dorados. Destellos de ataque dorados con centro brillante.
+
+<p>
+  <img src="capturas/adon_retrato.png" height="420" alt="Adon retrato">
+  <img src="capturas/adon.png" height="420" alt="Adon en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
