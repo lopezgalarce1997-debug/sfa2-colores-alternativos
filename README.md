@@ -147,6 +147,14 @@ Ropa verde azulado, pelo blanco verdoso. Sonic Boom y Flash Kick cian con centro
   <img src="capturas/charlie_sonicboom.png" height="320" alt="Charlie Sonic Boom cian">
 </p>
 
+## Dan — Rosa total
+Gi rosa chicle, pelo rosa, detalles fucsia. Gadoken rosa con centro brillante.
+
+<p>
+  <img src="capturas/dan_retrato.png" height="420" alt="Dan retrato">
+  <img src="capturas/dan.png" height="420" alt="Dan en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
