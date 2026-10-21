@@ -112,6 +112,14 @@ Blusa azul marino morado, falda negra, cinta y pañuelo gris oscuro. Estela y so
   <img src="capturas/sakura.png" height="420" alt="Sakura en pelea">
 </p>
 
+## Dhalsim — Negro / Hueso
+Piel negro carbón, franjas rojas en la cara, taparrabo y calaveras color hueso.
+
+<p>
+  <img src="capturas/dhalsim_retrato.png" height="420" alt="Dhalsim retrato">
+  <img src="capturas/dhalsim.png" height="420" alt="Dhalsim en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
