@@ -48,12 +48,20 @@ Ropa y pelaje negros, contorno oscuro. Bola de energía, estela y sombra del Cus
   <img src="capturas/zangief.png" height="420" alt="Zangief en pelea">
 </p>
 
-## M. Bison — Negro y dorado
-Uniforme negro, capa, guantes, hombreras y botas doradas. Psycho Power dorado con centro brillante.
+## M. Bison — 2 variantes
+
+**Negro y dorado** (2 Patadas / 2 Kicks / 2 Chutes): uniforme negro, capa, guantes, hombreras y botas doradas. Psycho Power dorado con centro brillante.
 
 <p>
   <img src="capturas/bison_retrato.png" height="420" alt="M. Bison retrato">
   <img src="capturas/bison.png" height="420" alt="M. Bison en pelea">
+</p>
+
+**Morado y cian** (2 Puños / 2 Punches / 2 Socos): uniforme morado, capa, guantes, hombreras y botas cian con brillo amarillo.
+
+<p>
+  <img src="capturas/bison2_retrato.png" height="420" alt="M. Bison morado y cian retrato">
+  <img src="capturas/bison2.png" height="420" alt="M. Bison morado y cian en pelea">
 </p>
 
 ## Sagat — Negro y dorado
