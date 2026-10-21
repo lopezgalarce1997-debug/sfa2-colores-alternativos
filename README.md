@@ -88,6 +88,14 @@ Ropa negra con ribetes dorados. Destellos de ataque dorados con centro brillante
   <img src="capturas/adon.png" height="420" alt="Adon en pelea">
 </p>
 
+## Guy — Hielo
+Piel azul helada, gi blanco plateado, vendas y cinturón celestes. Estela y sombra del Custom Combo celeste hielo.
+
+<p>
+  <img src="capturas/guy_retrato.png" height="420" alt="Guy retrato">
+  <img src="capturas/guy.png" height="420" alt="Guy en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
