@@ -143,6 +143,9 @@ Ropa verde azulado, pelo blanco verdoso. Sonic Boom y Flash Kick cian con centro
   <img src="capturas/charlie_retrato.png" height="420" alt="Charlie retrato">
   <img src="capturas/charlie.png" height="420" alt="Charlie en pelea">
 </p>
+<p>
+  <img src="capturas/charlie_sonicboom.png" height="320" alt="Charlie Sonic Boom cian">
+</p>
 
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
