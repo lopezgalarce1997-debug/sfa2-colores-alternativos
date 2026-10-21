@@ -136,6 +136,14 @@ Ropa de cuero negra, piel pálida, cresta y tachas rojas.
   <img src="capturas/birdie.png" height="420" alt="Birdie en pelea">
 </p>
 
+## Charlie — Teal
+Ropa verde azulado, pelo blanco verdoso. Sonic Boom y Flash Kick cian con centro brillante.
+
+<p>
+  <img src="capturas/charlie_retrato.png" height="420" alt="Charlie retrato">
+  <img src="capturas/charlie.png" height="420" alt="Charlie en pelea">
+</p>
+
 ## Próximamente
 - **Quemado lila** — La llama del fuego es lila con centro brillante en lugar de naranja.
 
